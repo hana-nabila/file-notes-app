@@ -46,12 +46,12 @@ The app stores notes locally using a file-based system and supports autosave, st
 
 git clone https://github.com/USERNAME/FileNotes-Pro.git
 cd FileNotes-Pro
----
+
 ### 2️. Install dependencies
 
 pip install customtkinter fpdf
----
+
 ### 3. Install dependencies
 
 python File-basedNotesApp.py
----
+
