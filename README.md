@@ -23,10 +23,10 @@ The app stores notes locally using a file-based system and supports autosave, st
 ## Application Preview
 
 ### Main Layout
-![Main UI](assets/screenshot-main.png.png)
+![Main UI](assetsscreenshot-main.png.png)
 
 ### Editor & Star Feature
-![Editor UI](assets/screenshot-editor.png.png)
+![Editor UI](assetsscreenshot-editor.png.png)
 
 ---
 
