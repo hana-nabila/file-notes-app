@@ -16,7 +16,7 @@ The app stores notes locally using a file-based system and supports autosave, st
 - Export notes to PDF
 - Last updated timestamp
 - Sidebar counters (All / Starred / Trash)
-- Modern UI with CustomTkinter
+- UI with CustomTkinter
 
 ---
 
